@@ -1,1 +1,1 @@
-Calc-Heroku.
+Calc-Heroku
